@@ -1,6 +1,6 @@
 #!/bin/sh
 
-EXTERNAL_DISK="/Volumes/Elements/Media/" #Change to the name of your External Disk an die Lociation of the Media
+EXTERNAL_DISK="/Volumes/Elements/Media/" # Change to the name of your External Disk an die Lociation of the Media
 PLEX_MEDIA_DIRECTORY="/Media/" # Change to the path of our Media for the Plex Server
 
 # Check if External Disk is Mounted
